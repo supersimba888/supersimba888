@@ -10,11 +10,11 @@
     <kbd>Blockchain</kbd>
     <br>
     <br>
-    <img width="30px" src="https://github.com/OnlyDragon0403/OnlyDragon/blob/main/ethereum.svg" />
-    <img width="30px" src="https://github.com/OnlyDragon0403/OnlyDragon/blob/main/svg/binance-logo.svg" />
-    <img width="30px" src="https://github.com/OnlyDragon0403/OnlyDragon/blob/main/svg/tron.svg" />
-    <img width="30px" src="https://github.com/OnlyDragon0403/OnlyDragon/blob/main/svg/cryptocurrency.svg" />
-    <img width="30px" src="https://github.com/OnlyDragon0403/OnlyDragon/blob/main/svg/crowdfunding.svg" />
+    <img width="30px" src="https://github.com/supersimba888/OnlyDragon/blob/main/ethereum.svg" />
+    <img width="30px" src="https://github.com/supersimba888/OnlyDragon/blob/main/svg/binance-logo.svg" />
+    <img width="30px" src="https://github.com/supersimba888/OnlyDragon/blob/main/svg/tron.svg" />
+    <img width="30px" src="https://github.com/supersimba888/OnlyDragon/blob/main/svg/cryptocurrency.svg" />
+    <img width="30px" src="https://github.com/supersimba888/OnlyDragon/blob/main/svg/crowdfunding.svg" />
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
@@ -79,12 +79,12 @@
     <table border="0" align="center">
         <tr border="0">
             <td width="50%" align="center">        
-            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=onlydragon0403&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true&custom_title=OnlyDragon's Github Stats" />
+            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=supersimba888&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true&custom_title=OnlyDragon's Github Stats" />
               <br></br>
-            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=onlydragon0403&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=supersimba888&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
             </td>
             <td width="50%" align="center">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlydragon0403&show=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,solidity,rust,nix" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supersimba888&show=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,solidity,rust,nix" />
             </td>
         </tr>
     </table>
@@ -95,7 +95,7 @@
 <p align="center">
     <div align=center>
       <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img src="https://github-profile-trophy.vercel.app/?username=onlydragon0403&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo">
+        <img src="https://github-profile-trophy.vercel.app/?username=supersimba888&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo">
       </a>
     </div>
 </p>
@@ -112,6 +112,6 @@
 <!-- <p align="center" >   
   Visitor's count
   <br></br>
-  <img src="https://profile-counter.glitch.me/onlydragon0403/count.svg" />  
+  <img src="https://profile-counter.glitch.me/supersimba888/count.svg" />  
 </p> -->
   
