@@ -11,10 +11,10 @@
     <br>
     <br>
     <img width="30px" src="https://github.com/supersimba888/supersimba888/blob/main/ethereum.svg" />
-    <img width="30px" src="https://github.com/supersimba888/OnlyDragon/blob/main/svg/binance-logo.svg" />
-    <img width="30px" src="https://github.com/supersimba888/OnlyDragon/blob/main/svg/tron.svg" />
-    <img width="30px" src="https://github.com/supersimba888/OnlyDragon/blob/main/svg/cryptocurrency.svg" />
-    <img width="30px" src="https://github.com/supersimba888/OnlyDragon/blob/main/svg/crowdfunding.svg" />
+    <img width="30px" src="https://github.com/supersimba888/supersimba888/blob/main/svg/binance-logo.svg" />
+    <img width="30px" src="https://github.com/supersimba888/supersimba888/blob/main/svg/tron.svg" />
+    <img width="30px" src="https://github.com/supersimba888/supersimba888/blob/main/svg/cryptocurrency.svg" />
+    <img width="30px" src="https://github.com/supersimba888/supersimba888/blob/main/svg/crowdfunding.svg" />
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
