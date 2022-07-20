@@ -79,7 +79,7 @@
     <table border="0" align="center">
         <tr border="0">
             <td width="50%" align="center">        
-            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=supersimba888&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true&custom_title=OnlyDragon's Github Stats" />
+            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=supersimba888&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true&custom_title=supersimba's Github Stats" />
               <br></br>
             <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=supersimba888&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
             </td>
